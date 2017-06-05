@@ -1,0 +1,21 @@
+{
+  "name": "fruits",
+  "description": "game",
+  "main": "index.html",
+  "authors": [
+    "Rain Arro"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
